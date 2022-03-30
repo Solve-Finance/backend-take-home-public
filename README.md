@@ -16,6 +16,12 @@ Your task is to build a program that calculates a user's debt to income ratio an
 
 We will give you the relevant data and calculations. It's up to you to build the service.
 
+## Guidelines
+
+- **Two Hour Time Limit** As mentioned before, please do not exceed 2 hours to complete or do what you can on this task.
+- **Node.js** Please use Node, it can be in Typescript or plain Javascript. 
+- **Frameworks / Libraries** Feel free to use any frameworks or libraries that you wish to leverage.
+
 # Materials and logistics
 
 Please use the following directory structure in your submission:
