@@ -30,7 +30,7 @@ Note that we've included data that you can use in whatever way you would like th
 
 # Relevant Calculations and references
 
-- `Debt to Income = Total Debt / Total Income`
+- `Debt to Income = Total Monthly Debt / Total Monthly Income`
 - [Article on DTI and DTI thresholds](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/#:~:text=Your%20debt%2Dto%2Dincome%20ratio,money%20you%20plan%20to%20borrow.)
 
 
