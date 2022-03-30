@@ -1,8 +1,8 @@
 # Solve Finance Back-end-focus Engineering Take Home Project
 
-First off, thanks for your interest in the Solve Finance engineering team! This take home is designed to assess your coding ability and style, problem solving approach and ability to communicate and realize requirements all the way to a working product=
+First off, thanks for your interest in the Solve Finance engineering team! This take home is designed to assess your coding ability and style, problem solving approach and ability to communicate and realize requirements all the way to a working product.
 
-We feel that this is an important step in your application process so please give it your best. However, we appreciate that we are taking otherwise valuable time from you and not everyone will get to the stage of receiving an offer. As such, please stick to a hard limit of no longer than two hours to implement what you can. This is out of respect for your own time and so that we can evaluate candidates equally. Don't worry if you don't complete the entire thing, just add some text or comments to indicate what you would do if you had had more time.
+We feel that this is an important step in your application process so please give it your best. However, we appreciate that we are taking otherwise valuable time from you. As such, please stick to a hard limit of no longer than two hours to implement what you can. This is out of respect for your own time and so that we can evaluate candidates equally. Don't worry if you don't complete the entire thing, just add some text or comments to indicate what you would do if you had had more time.
 
 Thanks again; and don't hesitate to ask questions!
 
