@@ -20,10 +20,10 @@ We will give you the relevant data and calculations. It's up to you to build the
 
 Please use the following directory structure in your submission:
 
-- [./src](./src) for your source code
-- [./dist](./dist) for any build artifacts (as needed)
-- [./test](./test) for any unit test files
-- [./spec](./spec) for any API specifications (as needed)
+- [./src](./src) for source code
+- [./dist](./dist) for build artifacts (as needed)
+- [./test](./test) for test files
+- [./spec](./spec) for API specifications (as needed)
 
 Note that we've included data that you can use in whatever way you would like that has some test user examples in [./data](./data).
 
