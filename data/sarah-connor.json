@@ -1,0 +1,14 @@
+{
+  "name": "Sarah Connor",
+  "grossIncome": 200000,
+  "loans": [
+    {
+      "type": "Mortgage",
+      "loanAmount": 700000,
+      "originationDate": "2002-05-19",
+      "monthlyPayment": 4000
+    }
+  ],
+  "totalMonthlyExpenses": 3000.0,
+  "taxRate": 0.4
+}

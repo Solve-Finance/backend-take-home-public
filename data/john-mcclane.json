@@ -1,0 +1,20 @@
+{
+  "name": "John McClane",
+  "grossIncome": 88000,
+  "loans": [
+    {
+      "type": "Personal",
+      "loanAmount": 30000,
+      "originationDate": "2008-12-24",
+      "monthlyPayment": 50
+    },
+    {
+      "type": "Student",
+      "loanAmount": 10000,
+      "originationDate": "2001-12-24",
+      "monthlyPayment": 300
+    }
+  ],
+  "totalMonthlyExpenses": 1100.0,
+  "taxRate": 0.3
+}
