@@ -1,0 +1,20 @@
+{
+  "name": "Ellen Ripley",
+  "grossIncome": 67000,
+  "loans": [
+    {
+      "type": "Student",
+      "loanAmount": 10000,
+      "originationDate": "2020-09-10",
+      "monthlyPayment": 100
+    },
+    {
+      "type": "Mortgage",
+      "loanAmount": 300000,
+      "originationDate": "2022-01-10",
+      "monthlyPayment": 1600
+    }
+  ],
+  "totalMonthlyExpenses": 1200.0,
+  "taxRate": 0.3
+}

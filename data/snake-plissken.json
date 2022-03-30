@@ -1,0 +1,14 @@
+{
+  "name": "Snake Plissken",
+  "grossIncome": 77800,
+  "loans": [
+    {
+      "type": "Mortgage",
+      "loanAmount": 100200,
+      "originationDate": "2020-03-23",
+      "monthlyPayment": 780.31
+    }
+  ],
+  "totalMonthlyExpenses": 765.02,
+  "taxRate": 0.33
+}
