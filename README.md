@@ -24,6 +24,8 @@ We will give you the relevant data and calculations. It's up to you to build the
 
 # Materials and logistics
 
+## Directory Structure of Submission
+
 Please use the following directory structure in your submission:
 
 - [./src](./src) for source code
@@ -33,6 +35,9 @@ Please use the following directory structure in your submission:
 
 Note that we've included data that you can use in whatever way you would like that has some test user examples in [./data](./data).
 
+## Submission Process
+
+Please submit your solution either by pointing us to a repo or sending us an archive file with all of the submission materials bundled.
 
 # Relevant Calculations and references
 
